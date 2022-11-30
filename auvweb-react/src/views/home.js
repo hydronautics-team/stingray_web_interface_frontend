@@ -1,16 +1,10 @@
 import React from 'react'
 
-import { Helmet } from 'react-helmet'
-
 import './home.css'
 
 const Home = (props) => {
   return (
     <div className="home-container">
-      <Helmet>
-        <title>AUVweb</title>
-        <meta property="og:title" content="AUVweb" />
-      </Helmet>
       <div className="home-container01">
         <span className="home-text">Область состояния робота</span>
         <div className="home-container02">
