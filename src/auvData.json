@@ -1,0 +1,17 @@
+{
+  
+  "course": 1000,
+  "depth": 15,
+  "march": 20,
+  "lag": 25,
+  "roll": 20,
+  "differential": 20,
+  "dropper": 1,
+  "lifter": 1,
+  "global_mission": "Плыть туда",
+  "local_mission": "Короче вращаемся на месте",
+  "transtion": "Чебурек"
+  
+  
+  
+}
